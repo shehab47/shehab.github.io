@@ -1,0 +1,53 @@
+body,
+html { 
+  width: 100%;
+  height: 100%;
+  font-family: 'Biryani', sans-serif;
+  background: url(file:///E:/courses/[DesireCourse.Net]%20Udemy%20-%20The%20Complete%20Web%20Developer%20in%202020%20Zero%20to%20Mastery/8.%20Bootstrap%204,%20Templates,%20And%20Building%20Your%20Startup%20Landing%20Page/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D9%8A/header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+h1{
+	color:white;
+	font-size: 3em;
+
+}
+
+hr {
+	border-color: #F05F44;
+	border-width: 3px;
+	max-width: 65px
+}
+
+.buffer{
+	height: 10rem;
+}
+
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+	border-color: #F05F44
+
+}
+
+.btn-primary{
+	background-color: #F05F44
+}
+
+.btn-primary:hover {
+	background-color: #EE5A00;
+	border-color:#EE5A00;
+	border-width: 3px
+}
+
+.btn-xl {padding: 1rem 4rem  ;
+}
+.nav-link{
+	color: #F05F44;
+	}
